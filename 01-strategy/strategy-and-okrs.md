@@ -15,7 +15,7 @@ _One line on why you picked it._
 
 | Question | Your choice |
 |---|---|
-| **Winning aspiration**: winning in the customer's terms, not internal metrics | _____ |
+| **Winning aspiration**: winning in the customer's terms, not internal metrics | __Potato___ |
 | **Where to play**: segment, geography, channel, use case (the no's matter too) | _____ |
 | **How to win**: your differentiator competitors can't easily replicate | _____ |
 | **Capabilities required**: what you must be world-class at (build / buy / partner) | _____ |
